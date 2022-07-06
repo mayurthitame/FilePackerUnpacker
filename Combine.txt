@@ -1,0 +1,2 @@
+a.txt 14                                                                                            Good Morning
+b.txt 12                                                                                            to all Buddyc.txt 15                                                                                            Have a nice day
